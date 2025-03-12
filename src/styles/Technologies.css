@@ -1,0 +1,17 @@
+.technologies {
+    padding: 2rem;
+  }
+  
+  .tech-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 1rem;
+  }
+  
+  .tech-item {
+    background: #1a202c;
+    padding: 1rem;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
